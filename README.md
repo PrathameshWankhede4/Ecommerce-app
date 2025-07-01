@@ -1,4 +1,4 @@
-## 🚀 Live Demo
+## Live Demo
 
 Explore the live versions of the project:
 
